@@ -77,11 +77,33 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "56MergeIntervals", "56Merge
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "62UniquePaths", "62UniquePaths\62UniquePaths.vcxproj", "{C979AD02-CB3C-40E6-97BE-11AFB1BBDAE7}"
 EndProject
+<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "191Numberof1Bits", "191Numberof1Bits\191Numberof1Bits.vcxproj", "{CD1B82C6-7C1F-4E5F-AA20-99CB2BD96FB6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "198HouseRobber", "198HouseRobber\198HouseRobber.vcxproj", "{DC690F63-E9BA-46E6-BAB1-344072203F1C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "202HappyNumber", "202HappyNumber\202HappyNumber.vcxproj", "{B122D42C-F288-4C25-A18F-3690F99173E7}"
+=======
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "172FactorialTrailingZeroes", "172FactorialTrailingZeroes\172FactorialTrailingZeroes.vcxproj", "{8CE8B8AF-FA44-482C-A505-BE7027F52874}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "189RotateArray", "189RotateArray\189RotateArray.vcxproj", "{DB0DC2F7-85F5-4CB2-B67B-3F37766F99E4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "190ReverseBits", "190ReverseBits\190ReverseBits.vcxproj", "{388CB73E-3141-467D-A554-4CCF55090BA9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "73SetMatrixZeroes", "73SetMatrixZeroes\73SetMatrixZeroes.vcxproj", "{CCA679BE-0B76-4C53-AF5B-5C3421372EC4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "104CountPrimes", "104CountPrimes\104CountPrimes.vcxproj", "{ED122BC3-94DF-4F06-B60C-2FFFA085F70E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "206ReverseLinkedList", "206ReverseLinkedList\206ReverseLinkedList.vcxproj", "{D3B37619-B1E2-462E-9A5D-0B53C377E189}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "217ContainsDuplicate", "217ContainsDuplicate\217ContainsDuplicate.vcxproj", "{0E6554AD-267D-4D85-8B46-6072F6E39E3D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "75SortColors", "75SortColors\75SortColors.vcxproj", "{333C026A-83AF-43AB-89B7-A27599580548}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "78Subsets", "78Subsets\78Subsets.vcxproj", "{3014DACA-19BB-4DC4-BFC1-A2A85273B247}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "44WildcardMatching", "44WildcardMatching\44WildcardMatching.vcxproj", "{6DAF0556-F00D-4C67-842C-0F510195B2AE}"
+>>>>>>> f8e466e10499d7f96586015faf903d078ae1b73b
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -387,6 +409,7 @@ Global
 		{C979AD02-CB3C-40E6-97BE-11AFB1BBDAE7}.Release|x64.Build.0 = Release|x64
 		{C979AD02-CB3C-40E6-97BE-11AFB1BBDAE7}.Release|x86.ActiveCfg = Release|Win32
 		{C979AD02-CB3C-40E6-97BE-11AFB1BBDAE7}.Release|x86.Build.0 = Release|Win32
+<<<<<<< HEAD
 		{CD1B82C6-7C1F-4E5F-AA20-99CB2BD96FB6}.Debug|x64.ActiveCfg = Debug|x64
 		{CD1B82C6-7C1F-4E5F-AA20-99CB2BD96FB6}.Debug|x64.Build.0 = Debug|x64
 		{CD1B82C6-7C1F-4E5F-AA20-99CB2BD96FB6}.Debug|x86.ActiveCfg = Debug|Win32
@@ -411,6 +434,7 @@ Global
 		{B122D42C-F288-4C25-A18F-3690F99173E7}.Release|x64.Build.0 = Release|x64
 		{B122D42C-F288-4C25-A18F-3690F99173E7}.Release|x86.ActiveCfg = Release|Win32
 		{B122D42C-F288-4C25-A18F-3690F99173E7}.Release|x86.Build.0 = Release|Win32
+=======
 		{8CE8B8AF-FA44-482C-A505-BE7027F52874}.Debug|x64.ActiveCfg = Debug|x64
 		{8CE8B8AF-FA44-482C-A505-BE7027F52874}.Debug|x64.Build.0 = Debug|x64
 		{8CE8B8AF-FA44-482C-A505-BE7027F52874}.Debug|x86.ActiveCfg = Debug|Win32
@@ -491,6 +515,7 @@ Global
 		{6DAF0556-F00D-4C67-842C-0F510195B2AE}.Release|x64.Build.0 = Release|x64
 		{6DAF0556-F00D-4C67-842C-0F510195B2AE}.Release|x86.ActiveCfg = Release|Win32
 		{6DAF0556-F00D-4C67-842C-0F510195B2AE}.Release|x86.Build.0 = Release|Win32
+>>>>>>> f8e466e10499d7f96586015faf903d078ae1b73b
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
