@@ -1,0 +1,9 @@
+diff a/Leetcode/Leetcode.sln b/Leetcode/Leetcode.sln	(rejected hunks)
+@@ -83,6 +83,7 @@
+  EndProject
+  Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "202HappyNumber", "202HappyNumber\202HappyNumber.vcxproj", "{B122D42C-F288-4C25-A18F-3690F99173E7}"
+  EndProject
+++<<<<<<< HEAD
+ +Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "268MissingNumber", "268MissingNumber\268MissingNumber.vcxproj", "{A7A5A279-EB57-4A26-9DD4-3D6D12B7971F}"
+ +EndProject
+ +Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "283MoveZeroes", "283MoveZeros\283MoveZeros.vcxproj", "{C5A78F09-4C85-421C-AF01-8E07839DA3D8}"
