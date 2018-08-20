@@ -137,7 +137,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "131PalindromePartitioning",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "134GasStation", "134GasStation\134GasStation.vcxproj", "{BCC7120B-D715-4404-9DC9-CA7E4B0A4F2D}"
 EndProject
-<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "138CopyListwithRandomPointer", "138CopyListwithRandomPointer\138CopyListwithRandomPointer.vcxproj", "{D88547A7-8E0E-4289-90A5-BF2675AE0BC6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "139WordBreak", "139WordBreak\139WordBreak.vcxproj", "{1500C60B-427C-4C5F-ACB4-64F7CBA88862}"
@@ -171,7 +170,7 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "238ProductofArrayExceptSelf", "238ProductofArrayExceptSelf\238ProductofArrayExceptSelf.vcxproj", "{6DDB39D0-410B-442A-B3B0-F7FD1B963A13}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240Searcha2DMatrixII", "240Searcha2DMatrixII\240Searcha2DMatrixII.vcxproj", "{A30BC443-E8BB-46BA-9C1B-9DB2F4FE999E}"
-=======
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "208ImpelemntTrie", "208ImpelemntTrie\208ImpelemntTrie.vcxproj", "{56C027BC-FDE4-45A4-8590-BDEB09BA23AF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35SearchInsertPosition", "35SearchInsertPosition\35SearchInsertPosition.vcxproj", "{29107C46-D8AB-4031-B054-4C1E26A65157}"
@@ -197,13 +196,14 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "300LongestIncreasingSubsequence", "300LongestIncreasingSubsequence\300LongestIncreasingSubsequence.vcxproj", "{8B3694BB-10A2-4B7E-909E-F8EDD1DA2EBD}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "322CoinCHnage", "322CoinCHnage\322CoinCHnage.vcxproj", "{1BC4BE4A-79EB-41A9-9F05-2A88F86FA70D}"
->>>>>>> fdfcc1bc7020832a029c60e464f08a7d29b05caf
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "347TopKFrequentElements", "347TopKFrequentElements\347TopKFrequentElements.vcxproj", "{00EBAFEB-52DF-4FA4-BC9C-9994C7D76238}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "378KthSmallestElementinaSortedMatrix", "378KthSmallestElementinaSortedMatrix\378KthSmallestElementinaSortedMatrix.vcxproj", "{B617A44A-2307-4A04-8D5A-29DD469E79FE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "380InsertDeleteGetRandomO1", "380InsertDeleteGetRandomO1\380InsertDeleteGetRandomO1.vcxproj", "{644B05B8-C729-44E7-8BB4-937E8A32F007}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "384ShuffleanArray", "384ShuffleanArray\384ShuffleanArray.vcxproj", "{D3A70CC4-EC81-48EF-9B8A-B65D657A8E26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1013,6 +1013,14 @@ Global
 		{644B05B8-C729-44E7-8BB4-937E8A32F007}.Release|x64.Build.0 = Release|x64
 		{644B05B8-C729-44E7-8BB4-937E8A32F007}.Release|x86.ActiveCfg = Release|Win32
 		{644B05B8-C729-44E7-8BB4-937E8A32F007}.Release|x86.Build.0 = Release|Win32
+		{D3A70CC4-EC81-48EF-9B8A-B65D657A8E26}.Debug|x64.ActiveCfg = Debug|x64
+		{D3A70CC4-EC81-48EF-9B8A-B65D657A8E26}.Debug|x64.Build.0 = Debug|x64
+		{D3A70CC4-EC81-48EF-9B8A-B65D657A8E26}.Debug|x86.ActiveCfg = Debug|Win32
+		{D3A70CC4-EC81-48EF-9B8A-B65D657A8E26}.Debug|x86.Build.0 = Debug|Win32
+		{D3A70CC4-EC81-48EF-9B8A-B65D657A8E26}.Release|x64.ActiveCfg = Release|x64
+		{D3A70CC4-EC81-48EF-9B8A-B65D657A8E26}.Release|x64.Build.0 = Release|x64
+		{D3A70CC4-EC81-48EF-9B8A-B65D657A8E26}.Release|x86.ActiveCfg = Release|Win32
+		{D3A70CC4-EC81-48EF-9B8A-B65D657A8E26}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
